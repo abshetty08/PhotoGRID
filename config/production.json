@@ -1,0 +1,7 @@
+{
+	"host": "http://34.232.233.159",
+	"S3AccessKey": "AKIAJHSD2G4ZKJJKN5KQ",
+	"S3Secret": "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",
+	"S3Bucket": "ab-photogrid",
+	"dbURL": "mongodb://photogrid:myphotogrid@ds157288.mlab.com:57288/photogrid"
+}
